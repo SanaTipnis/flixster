@@ -21,9 +21,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+`TODO://` 
 
 <img src="https://im3.ezgif.com/tmp/ezgif-3-3d0dda5c05de.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I worked with many TA's on the ios-slack channel to download the cocoapods file. I had to download brew, and then manually install Ruby, so getting the AlamofireImage was very difficult. Even after these efforts though, I was still not able to get the image to be shown on the app. 
