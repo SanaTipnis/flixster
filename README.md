@@ -9,11 +9,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
+`TODO://`
 
 #### REQUIRED (10pts)
-- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ ] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
 - [ ] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 `TODO://` 
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-3d0dda5c05de.gif" width=250><br>
+<img src="https://im3.ezgif.com/tmp/ezgif-3-764d292a189b.gif" width=250><br>
 
 ### Notes
 I worked with many TA's on the ios-slack channel to download the cocoapods file. I had to download brew, and then manually install Ruby, so getting the AlamofireImage was very difficult. Even after these efforts though, I was still not able to get the image to be shown on the app. 
