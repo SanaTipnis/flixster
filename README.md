@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-ab94ce9a926f.gif" width=250><br>
+<img src="http://g.recordit.co/qVDgRp3zdy.gif" width=250><br>
 
 ### Notes
 I had to reroute the rootViewController to get my phone to start with the movie poster screen. 
